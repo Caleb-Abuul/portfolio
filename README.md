@@ -1,5 +1,2 @@
-# portfolio
-A portfolio website for web and app developers. 
-Basic, interactive and easy to use
-Responsive and fancy
-I need help with this
+# My_Projects
+A folder for all my projects as I learn HTML, CSS and JavaScript.
